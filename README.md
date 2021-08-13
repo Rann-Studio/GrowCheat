@@ -1,4 +1,4 @@
-<h1>Croxy-Injector</h1>
+<h1>Croxy Injector</h1>
 <p>Growtopia Trainer Hack V.1.6.7 By <b>RannStudio</b></p>
 
 <h3>How To Use :</h3>
