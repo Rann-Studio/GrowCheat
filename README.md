@@ -1,6 +1,6 @@
 <h1>Croxy Injector</h1>
 <p>Growtopia Trainer Hack By <b>RannStudio</b></p>
-<p><b>Password :</b> RannStudio33</p>
+<p><b>Password :</b> 12345</p>
 
 <h3>How To Use :</h3>
 <p>1) Disable antivirus and firewall</p>
