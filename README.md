@@ -8,4 +8,5 @@
 <p>4) Activate</p>
 <p>5) Done. Enjoy!</p>
 
-![solved][https://4.bp.blogspot.com/-Dn57GgMgag0/V9ABGv-BKiI/AAAAAAAAH1Y/40hamO1lUrwWvJ_Iw1kLp96zMuQJDffnwCLcB/s280/Tips%2BCara%2BMengatasi%2BWindows%2Bprotected%2Byour%2BPC%2BWindows%2B8%252C8.1%252C%2BWindows%2B10_agunkzscreamo_blog.jpg]
+<p>How to fix Windows protected your PC ?</p>
+<img src="https://4.bp.blogspot.com/-Dn57GgMgag0/V9ABGv-BKiI/AAAAAAAAH1Y/40hamO1lUrwWvJ_Iw1kLp96zMuQJDffnwCLcB/s280/Tips%2BCara%2BMengatasi%2BWindows%2Bprotected%2Byour%2BPC%2BWindows%2B8%252C8.1%252C%2BWindows%2B10_agunkzscreamo_blog.jpg" width="200"/>
